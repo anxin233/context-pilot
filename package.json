@@ -1,6 +1,6 @@
 {
   "name": "context-pilot-vscode",
-  "displayName": "Context Pilot",
+  "displayName": "Context Pilot VSCode",
   "description": "Save, restore, and switch your full editor context — open files, cursor positions, layout, and more.",
   "version": "0.1.0",
   "publisher": "anxin233",
