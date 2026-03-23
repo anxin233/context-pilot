@@ -5,6 +5,14 @@
   "version": "0.1.0",
   "publisher": "context-pilot",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anxin233/context-pilot.git"
+  },
+  "homepage": "https://github.com/anxin233/context-pilot#readme",
+  "bugs": {
+    "url": "https://github.com/anxin233/context-pilot/issues"
+  },
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.85.0"
